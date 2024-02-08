@@ -33,7 +33,7 @@ const UnderConstruction = () => {
   const [time, setTimer] = useState<TimeState>({ hour: 0, min: 0, sec: 0 });
   return (
     <div className="relative flex items-center justify-center flex-col">
-      <p className="md:text-6xl text-3xl">COMING SOON</p>
+      <p className="md:text-4xl text-3xl">COMING SOON</p>
       <img
         className="md:max-h-[400px] max-h-[350px] my-3 rounded-2xl"
         src={construction}

@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "./assets/indiwater_logo.png";
+import logo from "/indiwater_logo.png";
 import UnderConstruction from "./components/UnderConstruction";
 
 function App() {

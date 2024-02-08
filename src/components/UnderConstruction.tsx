@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import construction from "../assets/under_construction.jpg";
+import construction from "/under_construction.jpg";
 
 import Timer from "./Timer";
 
